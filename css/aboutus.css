@@ -1,0 +1,652 @@
+.tusafirst {
+    margin-top: 60px;
+}
+
+.title {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.box {
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.box::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+
+}
+
+.pa {
+    width: 1169px;
+    height: 81px;
+    font-family: "Gilroy";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0.01em;
+    text-align: center;
+    margin-left: 100px;
+
+
+}
+
+.titlefirst {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxfirst {
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxfirst::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.four_second {
+    display: flex;
+    justify-content: space-between;
+}
+
+.krugfirst {
+    width: 268px;
+    height: 303px;
+    margin-right: 32px;
+    padding: 10px;
+
+    ;
+
+}
+
+.krugfirstimg {
+    margin-left: 33px;
+}
+
+.kluchfirst {
+    width: 112px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    margin-left: 67px;
+
+}
+
+
+
+
+.krugsecond {
+    width: 268px;
+    height: 304px;
+    margin-right: 34px;
+    padding: 10px;
+
+}
+
+.krugsecondimg {
+    margin-left: 33px;
+}
+
+.kluchsecond {
+    width: 159px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 21.54px;
+    margin-bottom: 8px;
+    margin-left: 50px;
+
+}
+
+
+
+
+.krugtri {
+    width: 268px;
+    height: 305px;
+    margin-right: 30px;
+    padding: 10px;
+
+}
+
+.krugtriimg {
+    margin-left: 33px;
+}
+
+.kluchtri {
+    width: 159px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 26.42px;
+    margin-bottom: 8px;
+    margin-left: 45px;
+}
+
+
+
+
+.krugfour {
+    width: 268px;
+    height: 306px;
+    padding: 10px;
+
+
+}
+
+.krugfourimg {
+    margin-left: 33px;
+}
+
+.kluchfour {
+    width: 238px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 25.45px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+
+}
+
+.les {
+    width: 100%;
+    Height: 445px;
+}
+
+.black_fone {
+    position: absolute;
+    top: 1314px;
+    left: 0;
+    width: 100%;
+    height: 445px;
+    background: #000000A6;
+}
+
+.nasha {
+    width: 247px;
+    height: 42px;
+    font-family: "Gilroy";
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffff;
+    margin: 52px 0 40px 632px;
+
+}
+
+.hhhh {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.hfirst {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 140px;
+
+
+}
+
+.hsecond {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 377px;
+}
+
+.htri {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 615px;
+}
+
+.hfour {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 854px;
+}
+
+.hfive {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 1090px;
+}
+
+.hsix {
+    position: absolute;
+    width: 49px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    top: 169px;
+    left: 1330PX;
+}
+
+.ppp {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ppfirst {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffffff;
+    left: 80px;
+
+
+
+}
+
+.ppsecond {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffff;
+    right: 1030px;
+}
+
+.pptri {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffff;
+    right: 795px;
+}
+
+.ppfour {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffff;
+    right: 555px;
+}
+
+.ppfive {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffff;
+    right: 315px;
+}
+
+.ppsix {
+    position: absolute;
+    width: 169px;
+    height: 93px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #ffff;
+    right: 77px;
+}
+
+
+
+.triimg {
+    position: absolute;
+    top: 353px;
+    left: 725px;
+}
+
+.titlesecond {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxsecond {
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxsecond::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.four {
+    display: flex;
+
+    position: relative;
+}
+
+.chasy {
+    position: absolute;
+    top: 10px;
+    left: 159px;
+}
+
+.chasytri {
+    position: absolute;
+    width: 147px;
+    height: 23px;
+    font-family: "Gilroy";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    left: 90px;
+    top: 65px;
+}
+
+.kniga {
+    position: absolute;
+    top: 5px;
+    left: 459px;
+}
+
+.knigatri {
+    position: absolute;
+    width: 273px;
+    height: 46px;
+    font-family: "Gilroy";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    top: 65px;
+    left: 350px;
+
+}
+
+.nas {
+    position: absolute;
+    top: 5px;
+    right: 459px;
+}
+
+.nastri {
+    position: absolute;
+    width: 275px;
+    height: 23px;
+    font-family: "Gilroy";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 65px;
+    right: 350px;
+
+}
+
+.gal {
+    position: absolute;
+    top: 10px;
+    right: 159px;
+}
+
+.galtri {
+    position: absolute;
+    width: 213px;
+    height: 23px;
+    font-family: "Gilroy";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 65px;
+    right: 90px;
+
+}
+
+.titletri {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+
+.boxtri {
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxtri::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.sex {
+    height: 110px;
+}
+
+.niketri {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 16px;
+}
+
+.zp {
+    text-align: center;
+    margin-top: 87px;
+    margin-left: 560px;
+    width: 441px;
+    height: 38px;
+    font-family: "Gilroy";
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+
+
+}
+
+.mp {
+    width: 614px;
+    height: 21px;
+    font-family: "Gilroy";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 470px;
+    color: #6F6C6C;
+}
+
+.text {
+    width: 315px;
+    height: 47px;
+    left: 306px;
+    border-radius: 3px;
+    background-color: #5e5e5e47;
+    margin-top: 61px;
+    margin-left: 306px;
+}
+
+.number {
+    width: 309px;
+    height: 47px;
+    border-radius: 3px;
+    background-color: #5e5e5e47;
+    margin-top: 61px;
+    margin-left: 26px;
+}
+
+
+
+.btn_tri {
+    width: 226px;
+    height: 47px;
+    background-color: #65256F;
+    margin-left: 35px;
+
+}
+
+.btntri {
+    width: 91px;
+    height: 21px;
+    font-family: "Gilroy";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #FFF;
+    padding-left: 80px;
+}

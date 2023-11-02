@@ -1,0 +1,127 @@
+.title {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.box {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.box::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.five {
+    height: 400px;
+}
+
+.tri {
+    display: flex;
+    justify-content: center;
+
+}
+
+.first {
+    margin: 30px 32px 0 0;
+}
+
+.second {
+    margin: 30px 32px 0 0;
+}
+
+.four {
+    margin: 30px 0 0 0;
+}
+
+.titlefirst {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxfirst {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.boxfirst::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.konec {
+    position: relative;
+    height: 600px;
+}
+
+.firstp {
+    position: absolute;
+    width: 1168px;
+    height: 120px;
+    font-family: "Gilroy";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.055em;
+    text-align: center;
+    margin: 20px 0 0 0;
+    left: 100px;
+
+
+}
+
+.secondp {
+    position: absolute;
+    top: 220px;
+    left: 75px;
+
+
+}
+
+.trip {
+    position: absolute;
+    top: 510px;
+    left: 420px;
+    width: 427px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #ffffff;
+
+
+}

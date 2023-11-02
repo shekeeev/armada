@@ -1,0 +1,1048 @@
+@import url("https://cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.header_top_block {
+    background-color: #65256F;
+    padding: 11px 0;
+}
+
+.container {
+    max-width: 85%;
+    margin: 0 auto;
+}
+
+.header_top_block .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top_right_info {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #FFF;
+    font-family: "Girloy";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+.top_right_info p {
+    color: #FFF;
+    font-family: "Girloy";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.top_right_info a {
+    color: #FBC70E;
+    font-family: "Girloy";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.top_left_info {
+    color: #FFB700;
+    font-family: "Girloy";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.header_navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1440px;
+    height: 62px;
+    flex-shrink: 0;
+}
+
+.header_navigation .menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 544px;
+    height: 20px;
+    flex-shrink: 0;
+    color: #2A2828;
+    gap: 44px;
+
+}
+
+.header_navigation nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.price {
+    border-radius: 3px;
+    background: #65256F;
+    width: 168px;
+    height: 35.625px;
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.bg_fone {
+    height: 100vh;
+    position: relative;
+}
+
+.city {
+    height: 100%;
+    width: 100%;
+}
+
+.black_fone {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000000A6;
+}
+
+.bg_fone_first {
+    width: 696px;
+    margin: 193px 608px 421px 136px;
+}
+
+.pfirst {
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.psecond {
+    color: #FFF;
+    font-family: Gilroy;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 40px 0 0 0;
+}
+
+
+.iconfirst {
+    position: absolute;
+    right: 155px;
+    top: 251px;
+    width: 36px;
+    height: 36px;
+}
+
+.iconsecond {
+    position: absolute;
+    float: right;
+    right: 155px;
+    top: 342px;
+}
+
+.iconthree {
+    position: absolute;
+    float: right;
+    right: 155px;
+    top: 438px;
+}
+
+.buttonny {
+    color: #000;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 300px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 3px;
+    background: #FFC957;
+    margin: 47px 0 0 0;
+}
+
+.title {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.box {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.box::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+
+}
+
+.four_second {
+    display: flex;
+    justify-content: space-between;
+}
+
+.krugfirst {
+    width: 268px;
+    height: 403px;
+    margin-right: 32px;
+    padding: 10px;
+    box-shadow: 0px 6px 32px 1px #00000010;
+    ;
+
+}
+
+.krugfirstimg {
+    margin-left: 33px;
+}
+
+.kluchfirst {
+    width: 112px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 8px;
+    margin-left: 67px;
+
+}
+
+.telfirst {
+    width: 210px;
+    height: 38px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E5E5E;
+    margin-bottom: 58px;
+    margin-left: 25px;
+
+}
+
+.afirst {
+    width: 125px;
+    height: 16px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #753ED6;
+    margin-left: 67px;
+}
+
+.krugsecond {
+    width: 268px;
+    height: 404px;
+    margin-right: 34px;
+    padding: 10px;
+    box-shadow: 0px 6px 32px 1px #00000010;
+}
+
+.krugsecondimg {
+    margin-left: 33px;
+}
+
+.kluchsecond {
+    width: 159px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 21.54px;
+    margin-bottom: 8px;
+    margin-left: 50px;
+
+}
+
+.telsecond {
+    width: 210px;
+    height: 38px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E5E5E;
+    margin-bottom: 58px;
+    margin-left: 25px;
+}
+
+.asecond {
+    width: 125px;
+    height: 16px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #753ED6;
+    margin-left: 67px;
+}
+
+.krugtri {
+    width: 268px;
+    height: 405px;
+    margin-right: 30px;
+    padding: 10px;
+    box-shadow: 0px 6px 32px 1px #00000010;
+}
+
+.krugtriimg {
+    margin-left: 33px;
+}
+
+.kluchtri {
+    width: 159px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 26.42px;
+    margin-bottom: 8px;
+    margin-left: 45px;
+}
+
+.teltri {
+    width: 210px;
+    height: 38px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E5E5E;
+    margin-bottom: 58px;
+    margin-left: 25px;
+}
+
+.atri {
+    width: 125px;
+    height: 16px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #753ED6;
+    margin-left: 67px;
+}
+
+.krugfour {
+    width: 268px;
+    height: 406px;
+    padding: 10px;
+    box-shadow: 0px 6px 32px 1px #00000010;
+
+}
+
+.krugfourimg {
+    margin-left: 33px;
+}
+
+.kluchfour {
+    width: 238px;
+    height: 42px;
+    font-family: Girloy;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 25.45px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+
+}
+
+.telfour {
+    width: 210px;
+    height: 38px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #5E5E5E;
+    margin-bottom: 55px;
+    margin-left: 25px;
+}
+
+.afour {
+    width: 125px;
+    height: 16px;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #753ED6;
+    margin-left: 38px;
+    margin-left: 67px;
+}
+
+.titlesecond {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxsecond {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxsecond::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.siximgfirst {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.imgfirst {
+    position: relative;
+
+}
+
+.imgfirstp {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+
+
+}
+
+.imgsecond {
+    position: relative;
+    margin-left: 30px;
+
+}
+
+.imgsecondp {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+}
+
+.imgtri {
+    position: relative;
+    margin-left: 30px;
+
+}
+
+.imgtrip {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+}
+
+.black_fonefirst {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000083;
+}
+
+.siximgsecond {
+    display: flex;
+    justify-content: center
+}
+
+.imgfour {
+    position: relative;
+
+}
+
+.imgfourp {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+}
+
+.imgfive {
+    position: relative;
+    margin-left: 30px;
+}
+
+.imgfivep {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+}
+
+.imgsix {
+    position: relative;
+    margin-left: 30px;
+}
+
+.imgsixp {
+    width: 328px;
+    height: 58px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFF;
+    position: absolute;
+    top: 80%;
+    left: 20PX;
+
+}
+
+.btngold {
+    width: 368px;
+    height: 52px;
+    background-color: #65256F;
+    margin: 50px 0 0 575px;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #FFF;
+
+}
+
+
+.titletri {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxtri {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxtri::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.triimg {
+    display: flex;
+    justify-content: center;
+}
+
+.triimgfirst {
+    position: relative;
+}
+
+.triimgsecond {
+    position: relative;
+    margin-left: 30px;
+}
+
+.triimgtri {
+    position: relative;
+    margin-left: 30px;
+}
+
+.black_fonefirst {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #00000083;
+}
+
+.titlefour {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.boxfour {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxfour::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.fourimg_first {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+.fourimgfirstp {
+    width: 268px;
+    height: 48px;
+    margin-top: 10px;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.fourimgsecondp {
+    width: 74px;
+    height: 21px;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #9808f2;
+
+}
+
+.fourimgsecond {
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+.fourimgtri {
+    margin-left: 30px;
+}
+
+.fourimgfour {
+    margin-left: 30px;
+}
+
+.btn_second {
+    width: 368px;
+    height: 52px;
+    background-color: #65256F;
+    margin: 20px 0 0 575px;
+}
+
+.btnsecond {
+    width: 124px;
+    height: 21px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #fff;
+    margin-left: 120px;
+    margin-top: 5px;
+
+
+}
+
+.boxfive {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.boxfive::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.titlefive {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.nike {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imyafirst {
+    display: flex;
+    justify-content: center;
+
+}
+
+.imya {
+    margin-left: 30px;
+}
+
+.ylya {
+    width: 73px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.anna {
+    width: 85px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.andrey {
+    width: 127px;
+    height: 42px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.ylyafirst {
+    width: 162px;
+    height: 28px;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6F6C6C;
+}
+
+.annafirst {
+    width: 113px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6F6C6C;
+}
+
+.andreyfirst {
+    width: 162px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #6F6C6C;
+}
+
+.zp {
+    text-align: center;
+    margin-top: 87px;
+    margin-left: 560px;
+    width: 441px;
+    height: 38px;
+    font-family: "Gilroy";
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: 0em;
+
+
+}
+
+.mp {
+    width: 614px;
+    height: 21px;
+    font-family: "Gilroy";
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 470px;
+    color: #6F6C6C;
+}
+
+.text {
+    width: 315px;
+    height: 47px;
+    left: 306px;
+    border-radius: 3px;
+    background-color: #5e5e5e47;
+    margin-top: 61px;
+    margin-left: 306px;
+}
+
+.number {
+    width: 309px;
+    height: 47px;
+    border-radius: 3px;
+    background-color: #5e5e5e47;
+    margin-top: 61px;
+    margin-left: 26px;
+}
+
+
+
+.btn_tri {
+    width: 226px;
+    height: 47px;
+    background-color: #65256F;
+    margin-left: 35px;
+
+}
+
+.btntri {
+    width: 91px;
+    height: 21px;
+    font-family: "Gilroy";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    color: #FFF;
+    padding-left: 80px;
+}
+
+.footer {
+    width: 100%;
+    height: 324px;
+    background-color: #3A3A3A;
+    margin: 80px 0 0 0;
+}
+
+.btm_footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bottom_text {
+    width: 252px;
+    margin: 67px 0 14px 0;
+}
+
+.btm_text {
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    font-family: "Gilroy";
+}
+
+.btm_pgph {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    font-family: "Gilroy";
+    margin-top: 8px;
+}
+
+.information {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 28px;
+    font-family: "Gilroy";
+    margin-top: 14px;
+}
+
+.btm_address {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Gilroy";
+    margin-top: 14px;
+}
+
+.btm_tel {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Gilroy";
+    margin-top: 14px;
+    width: 252px;
+}
+
+.btm_email {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Gilroy";
+    margin-top: 14px;
+
+}
+
+.ftr_Instagram {
+    color: #BCBBBB;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Gilroy";
+    margin-top: 14px;
+}

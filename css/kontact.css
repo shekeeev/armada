@@ -1,0 +1,173 @@
+.title {
+    text-align: center;
+    color: #000;
+    font-family: 'Gilroy';
+    font-size: 48px;
+    font-weight: 400;
+    margin: 62px 0;
+    position: relative;
+    background-color: #FFF;
+    padding: 0 10px;
+}
+
+.box {
+    margin-top: 70px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.box::before {
+    content: "";
+    display: block;
+    width: 100%;
+    height: 2px;
+    background-color: #BEBEBE;
+    position: absolute;
+    top: calc(50%);
+}
+
+.karta {
+    position: relative;
+    height: 720px;
+}
+
+.kartafirst {
+    position: absolute;
+    top: 60px;
+    left: 525px;
+}
+
+.kon {
+    position: absolute;
+    width: 159px;
+    height: 42px;
+    font-family: "Gilroy";
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 45px;
+}
+
+.chasy {
+    position: absolute;
+    top: 156px;
+}
+
+.rejim {
+    position: absolute;
+    top: 156px;
+    left: 35px;
+    width: 165px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #A4A4A4;
+}
+
+.vremy {
+    position: absolute;
+    width: 109px;
+    height: 17px;
+    top: 185px;
+    left: 35px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.01em;
+    text-align: left;
+}
+
+.vyx {
+    position: absolute;
+    width: 125px;
+    height: 17px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    top: 205px;
+    left: 35px;
+}
+
+.tel {
+    position: absolute;
+    top: 272px;
+}
+
+.telfirst {
+    position: absolute;
+    width: 98px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    top: 272px;
+    left: 35px;
+    color: #A4A4A4;
+}
+
+.telsecond {
+    position: absolute;
+    width: 255px;
+    height: 16px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    top: 304px;
+    left: 35px;
+
+}
+
+.adres {
+    position: absolute;
+    top: 360px;
+}
+
+.adress {
+    position: absolute;
+    top: 360px;
+    left: 35px;
+    width: 73px;
+    height: 28px;
+    font-family: "Gilroy";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #A4A4A4;
+
+}
+
+.adresss {
+    position: absolute;
+    width: 282px;
+    height: 42px;
+    top: 390px;
+    left: 35px;
+    font-family: "Gilroy";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+
+
+}
